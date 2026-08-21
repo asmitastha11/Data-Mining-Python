@@ -1,0 +1,88 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==============================
+# Virtual Environment
+# ==============================
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Environment Variables & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# OS Generated Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# IDE / Editors
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Python Testing / Coverage
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+.coverage.*
+
+# ==============================
+# Generated Data / Databases
+# ==============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# Temporary / Generated Files
+# ==============================
+*.tmp
+*.temp
+*.log
+
+# ==============================
+# Large Dataset Files
+# ==============================
+*.zip
+*.rar
+*.7z
+
+# ==============================
+# Local Jupyter Files
+# ==============================
+.jupyter/
+
+# ==============================
+# Matplotlib Cache
+# ==============================
+.matplotlib/
